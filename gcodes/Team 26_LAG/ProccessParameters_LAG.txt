@@ -1,0 +1,5 @@
+LAG proccess parameters
+
+Hatch distance: 0.123 mm
+Scan speed: 800 mm/min
+Number of passes: 4

@@ -1,0 +1,3 @@
+Hatching=0.08 mm
+Scan speed=800 mm/min
+Number of passes=4

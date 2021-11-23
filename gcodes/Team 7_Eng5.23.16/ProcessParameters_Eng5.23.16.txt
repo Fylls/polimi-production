@@ -1,0 +1,6 @@
+Hatching spacing: 0.032 mm
+Scan speed: 800 mm/min
+N° of passes: 4
+
+TBN;
+We considered a penetration depth of 5.8e-06 m in order to reach an overlap percentage (equal to 73.77%) that could still guarantee a conservative total penetration estimation.

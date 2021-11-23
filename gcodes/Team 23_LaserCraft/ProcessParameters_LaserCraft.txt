@@ -1,0 +1,3 @@
+Hatching 	= 60 um
+Scan Speed 	= 800 mm/min
+# of Passes	= 4

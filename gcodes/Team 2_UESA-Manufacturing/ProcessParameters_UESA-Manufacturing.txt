@@ -1,0 +1,2 @@
+Number Of Passes: 4
+Hatch Distance: 105 micrometer (30% percent of overlapping)

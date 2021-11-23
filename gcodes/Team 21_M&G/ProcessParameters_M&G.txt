@@ -1,0 +1,2 @@
+Hatching = 0.14 mm
+Number of passes = 3

@@ -1,0 +1,8 @@
+ProcessParameters_Keraunos
+
+Hatching: 80 um
+
+Scan Speed: 800 mm/min
+
+Num of passes: 3
+

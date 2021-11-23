@@ -1,0 +1,2 @@
+Hatching: 0.122
+N passes: 4

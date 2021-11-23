@@ -1,0 +1,3 @@
+Hatching spacing 0.1279 mm
+Scan speed 800 mm/min
+Number of passes 4  

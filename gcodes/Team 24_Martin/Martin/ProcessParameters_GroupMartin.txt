@@ -1,0 +1,5 @@
+Process Parameters Group 25: Martin 
+
+Hatching: 0,102mm
+Scan speed: 800mm/min
+Number of passes: 3

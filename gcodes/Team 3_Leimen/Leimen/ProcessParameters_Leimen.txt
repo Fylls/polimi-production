@@ -1,0 +1,7 @@
+Leimen Group process parameters: 
+
+hatching distance: 0.102 mm
+
+scan speed: 800 mm/min
+
+number of passes: 5

@@ -1,0 +1,4 @@
+Process Parameters:
+velocity: 800mm/s
+hatching=113,5 microns
+passes:4

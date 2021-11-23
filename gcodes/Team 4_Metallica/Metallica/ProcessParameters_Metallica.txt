@@ -1,0 +1,7 @@
+Group name: Metallica.
+
+we choose the following process parameters: 
+- HATCHING DISTANCE = 0.1 mm
+- SCAN SPEED = 800 mm/min
+- NUMBER OF PASSES =  3 
+(RED COATING)

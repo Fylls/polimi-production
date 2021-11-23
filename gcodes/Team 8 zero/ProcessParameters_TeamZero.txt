@@ -1,0 +1,4 @@
+Hatching: 95 um
+Jog speed: 3000 mm/min
+Work speed: 800 mm/min
+Number of passes: 3 (Theoretical penetration depth: 8.14 um)

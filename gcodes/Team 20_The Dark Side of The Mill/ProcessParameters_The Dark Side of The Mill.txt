@@ -1,0 +1,7 @@
+Group name: The Dark Side of The Mill
+
+track width : 127
+offsett : 54 %
+
+hatching distance : 59 um
+number of passes : 2

@@ -1,0 +1,4 @@
+Group Name: Cardano
+Hatching61  [?m]Scan speed 800  [mm/min]N° Passes3Track width127,89  [?m]Penetration depth6,39 [?m]Error_depth0,83 [?m]Efficiency0,15
+
+

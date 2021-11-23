@@ -1,0 +1,5 @@
+Hacthing: 0.1 mm
+
+Scan Speed: 800 mm/min 
+
+N° of passes: 4

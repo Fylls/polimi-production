@@ -1,0 +1,3 @@
+hatching: spacing=0.127 mm
+speed: 800 mm/min
+number of passes: 4

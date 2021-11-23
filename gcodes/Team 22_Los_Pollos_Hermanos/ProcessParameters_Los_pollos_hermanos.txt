@@ -1,0 +1,4 @@
+Process parameters
+Hatching --> dh = 165.2625 um (value obtained considering a 2.5% of positive overlap, starting from the value of the HAZ calculated by thermal model on Matlab = 169.5 um)
+Scan speed --> v = 800 mm/min
+N° of passes --> n = 3
